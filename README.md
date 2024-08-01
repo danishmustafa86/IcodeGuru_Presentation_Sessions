@@ -9,6 +9,6 @@
 ### Sort array by increasing order
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/?envType=daily-question&envId=2024-07-23).
-### ** Majority element ** 
+### Majority element 
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/majority-element/description/).
