@@ -12,3 +12,6 @@
 ### Majority element 
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/majority-element/description/).
+### substrings-of-size-three-with-distinct-characters/description
+[Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
+[Problem_Link](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/).
