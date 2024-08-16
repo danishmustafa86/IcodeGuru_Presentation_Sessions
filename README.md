@@ -1,4 +1,4 @@
-# IcodeGuru_Moderating_Sessions
+# IcodeGuru_Presentation_Sessions
 ## This repo contain IcodeGuru presentation sessions problems links, solutions, and complete understanding videos.
 ### Find lucky number
 [solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
