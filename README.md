@@ -15,9 +15,9 @@
 ### Substrings-of-size-three-with-distinct-characters
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/).
-### https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/
+### minimum-operations-to-make-binary-array-elements-equal-to-one-i
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/).
-### Substrings-of-size-three-with-distinct-characters
+### deepest-leaves-sum
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/deepest-leaves-sum/).
