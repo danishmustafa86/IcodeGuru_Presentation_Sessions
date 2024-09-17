@@ -28,3 +28,9 @@
 ### increasing-triplet-subsequence
 [Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
 [Problem_Link](https://leetcode.com/problems/increasing-triplet-subsequence/description/).
+### find-minimum-in-rotated-sorted-array
+[Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
+[Problem_Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/).
+### uncommon-words-from-two-sentences
+[Solution](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?usp=sharing).
+[Problem_Link](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/?envType=daily-question&envId=2024-09-17).
